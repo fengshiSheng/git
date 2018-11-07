@@ -4,4 +4,8 @@ dog : I am cute dog
 
 I am nb branch!
 
+<<<<<<< HEAD
 dog commit to github!
+=======
+will see nb branck?
+bull shilt
